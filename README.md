@@ -5,7 +5,7 @@ Hey there! I'm Leo, more commonly known as LeoFLT. I am an Electrical Engineer t
 
 [<img align="left" alt="leoflt.com" width="24px" src="https://leoflt.com/favicon.svg" />][site]
 [<img align="left" alt="Twitter" width="24px" src="https://i.imgur.com/KltN3kv.png" />][twitter]
-[<img align="left" alt="osu!" width="24px" src="https://i.imgur.com/xeFIHI2.png" />][osu]
+[<img align="left" alt="osu!" width="25px" src="https://raw.githubusercontent.com/ppy/osu-web/master/public/images/layout/osu-logo%402x.png" />][osu]
 <br>
 
 ### Check out Flashlight!
