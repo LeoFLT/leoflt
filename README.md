@@ -2,9 +2,9 @@
 Hey there! I'm Leo, more commonly known as LeoFLT. I am an Electrical Engineer that occasionally gets involved in web development.
 
 ### Socials
-[<img alt="leoflt.com" width="24px" hspace="4px" src="https://leoflt.com/favicon.svg" />][site]
+[<img alt="leoflt.com" width="24px" hspace="1px" src="https://leoflt.com/favicon.svg" />][site]
 [<img alt="Twitter" width="24px" hspace="4px" src="https://i.imgur.com/KltN3kv.png" />][twitter]
-[<img alt="osu!" width="25px" hspace="4px" src="https://raw.githubusercontent.com/ppy/osu-web/master/public/images/layout/osu-logo%402x.png" />][osu]
+[<img alt="osu!" width="25px" src="https://raw.githubusercontent.com/ppy/osu-web/master/public/images/layout/osu-logo%402x.png" />][osu]
 <br>
 
 ### Check out Flashlight!
