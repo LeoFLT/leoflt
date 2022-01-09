@@ -13,7 +13,7 @@ Hey there! I'm Leo, more commonly known as LeoFLT. I am an Electrical Engineer t
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoFLT&theme=github_dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeoFLT&theme=github-dark&hide_border=true&stroke=c3d1d9&ring=4c8eda&dates=bdcbd3)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeoFLT&theme=github-dark&hide_border=true&stroke=c3d1d9&ring=4c8eda&sideLabels=bdcbd3&sideNums=bdcbd3&currStreakLabel=bdcbd3&currStreakNum=bdcbd3&dates=bdcbd3)](https://git.io/streak-stats)
 
 
 ### Check out Flashlight!
