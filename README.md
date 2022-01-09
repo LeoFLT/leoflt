@@ -7,6 +7,12 @@ Hey there! I'm Leo, more commonly known as LeoFLT. I am an Electrical Engineer t
 [<img alt="osu!" width="25px" src="https://raw.githubusercontent.com/ppy/osu-web/master/public/images/layout/osu-logo%402x.png" />][osu]
 <br>
 
+### What I'm doing at the moment
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoFLT&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeoFLT&theme=dark)](https://git.io/streak-stats)
+
+
 ### Check out Flashlight!
 
 Flashlight is a Discord bot that tracks "match costs" for an osu! multiplayer lobby. Click the image to invite it to your server.
