@@ -10,6 +10,7 @@ Hey there! I'm Leo, more commonly known as LeoFLT. I am an Electrical Engineer t
 ### What I'm doing at the moment
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoFLT&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeoFLT&theme=dark)](https://git.io/streak-stats)
 
 
