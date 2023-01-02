@@ -1,5 +1,5 @@
 ### About me
-Hey there! I'm Leo, more commonly known as LeoFLT. I am an Electrical Engineer who specializes in embedded systems that occasionally gets dabbles in web development.
+Hey there! I'm Leo, more commonly known as LeoFLT. I am an Electrical Engineer who specializes in embedded systems that occasionally dabbles in web development.
 
 ### Socials
 [<img alt="Website" width="24px" hspace="1px" src="https://leoflt.com/favicon.svg" />][site]
