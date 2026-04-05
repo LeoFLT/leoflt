@@ -9,12 +9,14 @@ Hey there! I'm Leo, more commonly known as LeoFLT. I am an electrical engineer w
 
 ### What I'm doing at the moment
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoFLT&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Stats](./profile/stats-light.svg#gh-light-mode-only)
+
 ![Stats](./profile/stats-dark.svg#gh-dark-mode-only)
+
 ![Top Languages](./profile/top-langs-light.svg#gh-light-mode-only)
+
 ![Top Languages](./profile/top-langs-dark.svg#gh-dark-mode-only)
+
 
 ### Check out Flashlight!
 
