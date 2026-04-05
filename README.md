@@ -9,13 +9,9 @@ Hey there! I'm Leo, more commonly known as LeoFLT. I am an electrical engineer w
 
 ### What I'm doing at the moment
 
-![Stats](./profile/stats-light.svg#gh-light-mode-only)
+![Stats-Light](./profile/stats-light.svg#gh-light-mode-only)![Stats-Dark](./profile/stats-dark.svg#gh-dark-mode-only)
 
-![Stats](./profile/stats-dark.svg#gh-dark-mode-only)
-
-![Top Languages](./profile/top-langs-light.svg#gh-light-mode-only)
-
-![Top Languages](./profile/top-langs-dark.svg#gh-dark-mode-only)
+![Top Languages-Light](./profile/top-langs-light.svg#gh-light-mode-only)![Top Languages-Dark](./profile/top-langs-dark.svg#gh-dark-mode-only)
 
 
 ### Check out Flashlight!
